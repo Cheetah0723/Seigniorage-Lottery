@@ -1,9 +1,41 @@
 {
   "Home": {
-    "title1": "Welcome to Creep Finance",
-    "paragraph1": "Game Theory is building a 2D RPG that is currently in development on the Fantom Opera blockchain. It is combining the best attributes of Tomb Finance and Defi Kingdoms to bootstrap liquidity for the launch of the game. $THEORY holders will be able to vote on aspects of the game and be share-holders in its revenue. $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions.",
-    "title2": "How Does It Work",
-    "paragraph2": "Game Theory is building a 2D RPG that is currently in development on the Fantom Opera blockchain. It is combining the best attributes of Tomb Finance and Defi Kingdoms to bootstrap liquidity for the launch of the game. $THEORY holders will be able to vote on aspects of the game and be share-holders in its revenue. $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions.",
+    "title1": "Welcome to Seigniorage Club!",
+    "paragraph1": {
+      "line1": "The first protocol that helps other seigniorage protocols' pegging algorithm, by utilities with burning mechanism.",
+      "line2": "Please read the Home Page and FAQ before you play!",
+      "line3": "Also please join our discord for announcements, events and more!",
+      "line4": "Thank you for visiting Seigniorage Club. Have fun!"
+    },
+    "content": [
+      {
+        "title": "Peg Lottery Explained",
+        "paragraph": {
+          "line1": "Win Ratio: 50% Fixed",
+          "line2": "Reward: 1.9x Ticket Price",
+          "line3": "Drawing Every 30 Minutes",
+          "line4": "Closed During Last 2 Minutes"
+        }
+      },
+      {
+        "title": "Allocation",
+        "paragraph": {
+          "line1": "95% Paid Out to Winners",
+          "line2": "2% Burnt",
+          "line3": "1% Reserved for Gas & Fees",
+          "line4": "2% Reserved for Dev & Treasury"
+        }
+      },
+      {
+        "title": "How to Play",
+        "paragraph": {
+          "line1": "Click Peg Lottery' on Top",
+          "line2": "Choose the Token to Play",
+          "line3": "Enter a Lottery",
+          "line4": "Wait <30 Mins, That's it!"
+        }
+      }
+    ],
     "title3": "Is It Truly Random?",
     "paragraph3": "Game Theory is building a 2D RPG that is currently in development on the Fantom Opera blockchain. It is combining the best attributes of Tomb Finance and Defi Kingdoms to bootstrap liquidity for the launch of the game. $THEORY holders will be able to vote on aspects of the game and be share-holders in its revenue. $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions."
   },
@@ -50,5 +82,32 @@
       "title2": "Win Chance: 50%",
       "title3": "Players: 162"
     }    
+  ],
+
+  "Faq": [
+    {
+      "question": "What is the reward?",
+      "answer": "If you win the lottery, you will receive 1.9x of your entry. For example, if you participated in 20 X Token Peg Lottery and won, you will see 38 X Tokens on the claim box on the left side. You can either withdraw or play another lottery."
+    },
+    {
+      "question": "How many winners are there per drawing?",
+      "answer": "50% of the entire participants will win. For example, if total of 100 people participated in the 20 X Token Peg Lottery, 50 of them will each receive 38 X Tokens."
+    },
+    {
+      "question": "Can I buy multiple ticket?",
+      "answer": "No, each wallet can only participate ONCE per the drawing. Lottery happens EVERY 30 MINUTES. You will be able to participate during first 28 minutes, and winners will be drawn during next 2 minutes."
+    },
+    {
+      "question": "Which chains do you support?",
+      "answer": "We are currently supporting BSC and Fantom Opera. More chains will be supported in the future, and more Tokens will be supported in the future. Please stay tuned."
+    },
+    {
+      "question": "How are the winners determined?",
+      "answer": "There is an explanation on our Random Function in the Home Page. If you still have some more questions, please join our official discord and feel free to ask us or the community!"
+    },
+    {
+      "question": "What if there are single participant or odd number of participants?",
+      "answer": "If there is only one person participating, his tokens will be refunded (sent back to him when drawing begins. When there are odd number of participants, one random person will be selected and get refunded with LITTLE extra when drawing begins."
+    }
   ]
 }

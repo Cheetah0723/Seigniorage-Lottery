@@ -1,6 +1,6 @@
-export const PegLottery = (props) => {
+export const Faq = (props) => {
   return (
-    <div id="peglottery" className="text-center">
+    <div id="faq" className="text-center">
       <div className="container">
         <div className="col-md-10 col-md-offset-1 section-title">
           <div className="title-border">

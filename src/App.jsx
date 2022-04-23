@@ -3,6 +3,7 @@ import { Navigation } from "./components/navigation";
 import { Home } from "./components/home";
 import { PegLottery } from "./components/peglottery";
 import { EMPMoney } from "./components/empmoney";
+import { Faq } from "./components/faq";
 
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -25,6 +26,7 @@ const App = () => {
       <Home data={landingPageData.Home} />
       <PegLottery data={landingPageData.PegLottery} />
       <EMPMoney data={landingPageData.EMPMoney} />
+      <Faq data={landingPageData.Faq} />
     </div>
   );
 };
