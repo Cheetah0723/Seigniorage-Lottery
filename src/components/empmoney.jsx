@@ -24,7 +24,7 @@ export const EMPMoney = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             <div className="content-border">
-              <img src="./img/EMP_Logo.gif" className="emp" />
+              <img src="./img/EMP_Logo.gif" className="emp" alt="emp" />
               <p>Your Wins: 38EMP</p>
               <p>Claim Your Win</p>
               <p>Buy a Ticket (-20 EMP)</p>
@@ -32,7 +32,7 @@ export const EMPMoney = (props) => {
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="content-border">
-              <img src="./img/EMP_Logo.gif" className="emp" />
+              <img src="./img/EMP_Logo.gif" className="emp" alt="emp" />
               <p>EMP Lottery (20)</p>
               <p>Buy a Ticket</p>
             </div>

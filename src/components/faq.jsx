@@ -5,7 +5,7 @@ export const Faq = (props) => {
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
-                <div className="title-border">
+                <div key={`${i}`} className="title-border">
                   <h3>{d.question}</h3>
                   <p>{d.answer}</p>
                 </div>

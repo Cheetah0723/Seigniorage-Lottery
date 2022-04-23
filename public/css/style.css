@@ -173,6 +173,14 @@ a:focus,
   outline: none;
   outline-offset: none;
 }
+
+p {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 30px;
+  margin: 0;
+}
 /* Header Section */
 .intro {
   display: table;
@@ -198,13 +206,15 @@ a:focus,
   margin-bottom: 20px !important;
 }
 
-p {
+.intro p {
   color: #fff;
   font-size: 20px;
   font-weight: 300;
   line-height: 30px;
-  
+  margin: 8px;
 }
+
+
 
 /* Features Section */
 #peglottery {
