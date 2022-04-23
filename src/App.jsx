@@ -27,6 +27,7 @@ const App = () => {
       <PegLottery data={landingPageData.PegLottery} />
       <EMPMoney data={landingPageData.EMPMoney} />
       <Faq data={landingPageData.Faq} />
+      {/* <img src="./img/discord.png" className="social" /> */}
     </div>
   );
 };
