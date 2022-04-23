@@ -1,0 +1,54 @@
+{
+  "Home": {
+    "title1": "Welcome to Creep Finance",
+    "paragraph1": "Game Theory is building a 2D RPG that is currently in development on the Fantom Opera blockchain. It is combining the best attributes of Tomb Finance and Defi Kingdoms to bootstrap liquidity for the launch of the game. $THEORY holders will be able to vote on aspects of the game and be share-holders in its revenue. $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions.",
+    "title2": "How Does It Work",
+    "paragraph2": "Game Theory is building a 2D RPG that is currently in development on the Fantom Opera blockchain. It is combining the best attributes of Tomb Finance and Defi Kingdoms to bootstrap liquidity for the launch of the game. $THEORY holders will be able to vote on aspects of the game and be share-holders in its revenue. $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions.",
+    "title3": "Is It Truly Random?",
+    "paragraph3": "Game Theory is building a 2D RPG that is currently in development on the Fantom Opera blockchain. It is combining the best attributes of Tomb Finance and Defi Kingdoms to bootstrap liquidity for the launch of the game. $THEORY holders will be able to vote on aspects of the game and be share-holders in its revenue. $GAME will be in the in-game currency and LP providers will earn fees from the game and other promotions."
+  },
+  
+  "PegLottery": [
+    {
+      "emp": "./img/EMP_Logo.gif",
+      "title": "EMP Money"
+      
+    },
+    {
+      "emp": "./img/EMP_Logo.gif",
+      "title": "EMP Money"
+      
+    },
+    {
+      "emp": "./img/EMP_Logo.gif",
+      "title": "EMP Money"
+    
+    },
+    {
+      "emp": "./img/EMP_Logo.gif",
+      "title": "EMP Money"
+      
+    }
+  ],
+
+  "EMPMoney": [
+    {
+      "emp": "./img/EMP_Logo.gif",
+      "title1": "Ticket Price",
+      "title2": "20 EMP ",
+      "title3": "(Drop Down Menu)"
+    },
+    {
+      "emp": "./img/EMP_Logo.gif",
+      "title1": "Time Left to Enter",
+      "title2": "26:49",
+      "title3": "Drawing in 28:49"
+    },
+    {
+      "emp": "./img/EMP_Logo.gif",
+      "title1": "Winners Get: 38 EMP",
+      "title2": "Win Chance: 50%",
+      "title3": "Players: 162"
+    }    
+  ]
+}
