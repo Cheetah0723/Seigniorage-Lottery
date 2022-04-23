@@ -86,27 +86,27 @@
 
   "Faq": [
     {
-      "question": "What is the reward?",
+      "question": "Q1. What is the reward?",
       "answer": "If you win the lottery, you will receive 1.9x of your entry. For example, if you participated in 20 X Token Peg Lottery and won, you will see 38 X Tokens on the claim box on the left side. You can either withdraw or play another lottery."
     },
     {
-      "question": "How many winners are there per drawing?",
+      "question": "Q2. How many winners are there per drawing?",
       "answer": "50% of the entire participants will win. For example, if total of 100 people participated in the 20 X Token Peg Lottery, 50 of them will each receive 38 X Tokens."
     },
     {
-      "question": "Can I buy multiple ticket?",
+      "question": "Q3. Can I buy multiple ticket?",
       "answer": "No, each wallet can only participate ONCE per the drawing. Lottery happens EVERY 30 MINUTES. You will be able to participate during first 28 minutes, and winners will be drawn during next 2 minutes."
     },
     {
-      "question": "Which chains do you support?",
+      "question": "Q4. Which chains do you support?",
       "answer": "We are currently supporting BSC and Fantom Opera. More chains will be supported in the future, and more Tokens will be supported in the future. Please stay tuned."
     },
     {
-      "question": "How are the winners determined?",
+      "question": "Q5. How are the winners determined?",
       "answer": "There is an explanation on our Random Function in the Home Page. If you still have some more questions, please join our official discord and feel free to ask us or the community!"
     },
     {
-      "question": "What if there are single participant or odd number of participants?",
+      "question": "Q6. What if there are single participant or odd number of participants?",
       "answer": "If there is only one person participating, his tokens will be refunded (sent back to him when drawing begins. When there are odd number of participants, one random person will be selected and get refunded with LITTLE extra when drawing begins."
     }
   ]
