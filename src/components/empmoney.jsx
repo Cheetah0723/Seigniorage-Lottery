@@ -8,6 +8,7 @@ export const EMPMoney = (props) => {
           </div>
           <h3>BSC</h3>
         </div>
+
         <div className="row">
           {props.data
             ? props.data.map((d, i) => (
@@ -21,6 +22,7 @@ export const EMPMoney = (props) => {
               ))
             : "Loading..."}
         </div>
+
         <div className="row">
           <div className="col-xs-12 col-md-6">
             <div className="content-border">

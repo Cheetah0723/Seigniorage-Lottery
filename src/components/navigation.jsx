@@ -49,6 +49,7 @@ export const Navigation = (props) => {
                 Dev fund
               </a>
             </li>
+            <li></li>
             <li>
               <a href="#contact" className="page-scroll">
                 Faq
