@@ -221,7 +221,7 @@ p {
   padding-top: 100px;
   background: url(../img/peg_bg.png) center center no-repeat; 
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -232,7 +232,7 @@ p {
   padding-top: 100px;
   background: url(../img/emp_bg.png) center center no-repeat; 
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -240,7 +240,7 @@ p {
 }
 
 #faq {
-  padding-top: 100px;
+  padding: 100px 20px;
   background: url(../img/faq_bg.jpg) center center no-repeat; 
   width: 100%;
   -webkit-background-size: cover;
@@ -253,12 +253,26 @@ p {
   width: 200px;
 }
 
+@media (max-width: 500px) {
+  .emp {
+    width: 150px;
+  }
+}
+
 .content-border {
   border-radius: 25px;
   background-color: rgb(0, 0, 0, 0.2);
   padding: 20px;
   margin: 0 0 30px 0;
   border: 1px solid white;
+}
+
+.content-height {
+  height: 295px;
+}
+
+.card-height {
+  height: 338px;
 }
 
 .title-border {

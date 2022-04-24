@@ -25,7 +25,7 @@ export const Home = (props) => {
                       key={`${d.title}-${i}`}
                       className="col-md-4 intro-text"
                     >
-                      <div className="content-border center">
+                      <div className="content-border center content-height">
                         <h2>{props.data ? d.title : "Loading"}</h2>
                         <p>{props.data ? d.paragraph.line1 : "Loading"}</p>
                         <p>{props.data ? d.paragraph.line2 : "Loading"}</p>

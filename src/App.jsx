@@ -27,7 +27,11 @@ const App = () => {
       <PegLottery data={landingPageData.PegLottery} />
       <EMPMoney data={landingPageData.EMPMoney} />
       <Faq data={landingPageData.Faq} />
-      {/* <img src="./img/discord.png" className="social" /> */}
+      <div className="social-btn">
+        <a href="https://discord.gg/SeigniorageClub">
+          <img src="./img/discord.png" className="social-icon" alt="discord" />
+        </a>
+      </div>
     </div>
   );
 };

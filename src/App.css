@@ -2,8 +2,12 @@
   text-align: center;
 }
 
-/* .social {
-  position: sticky;
-  bottom: 0;
-  right: 0;
-} */
+.social-btn{
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
+
+.social-icon {
+  width: 50px;
+}
